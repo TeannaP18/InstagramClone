@@ -37,6 +37,8 @@ My application build was not failing but when I ran the app it seemed to freeze 
 started to record my gif walkthrough, android studio was not responding. The walkthrough doesn't show all the functionality but the code has pretty much every part
 of the required stories. 
 
+I think the issue has something to do with the "startActivityForResult" method being deprecated.
+
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
